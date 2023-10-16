@@ -1,6 +1,5 @@
 - Hi, I’m bilal
-- I’m a mathematician
-- I’m interested in Data Science
+- I’m a mathematician and interested in Data Science
 
 
 
