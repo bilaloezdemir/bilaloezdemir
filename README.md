@@ -1,7 +1,8 @@
-- 👋 Hi, I’m bilal
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Spark MAchine Learning and AWS Cloud
-- 📫 How to reach me  bilalozdemirsv@gmail.com
+- Hi, I’m bilal
+- I’m a mathematician
+- I’m interested in Data Science
+
+
 
 <!---
 bilaloezdemir/bilaloezdemir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
